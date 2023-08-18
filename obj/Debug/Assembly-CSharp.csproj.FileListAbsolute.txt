@@ -1,0 +1,2 @@
+/Users/j/Desktop/Night Club Dance/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache
+/Users/j/Desktop/Night Club Dance/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
